@@ -1,0 +1,26 @@
+version: 1.0
+shards:
+  bisect:
+    github: spider-gazelle/bisect
+    version: 1.2.0
+
+  cron_parser:
+    github: kostya/cron_parser
+    version: 0.3.0
+
+  halite:
+    github: icyleaf/halite
+    commit: aa2257fdae5ca54b538971309c950344c84b5e36
+
+  strange:
+    github: hydecr/strange
+    commit: 92a1397575e33b60ab899c12d83f2866af1a3352
+
+  tasker:
+    github: spider-gazelle/tasker
+    commit: 5fc37acdd9a784ad2146f7f225689c407f2091b5
+
+  tourmaline:
+    github: watzon/tourmaline
+    commit: 09c2a0b2c8ec1b4e16368e5220d0e98feac7d814
+

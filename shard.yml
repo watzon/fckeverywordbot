@@ -1,0 +1,21 @@
+name: fckeverywordbot
+version: 0.1.0
+
+authors:
+  - Chris Watson <cawatson1993@gmail.com>
+
+dependencies:
+  tourmaline:
+    github: watzon/tourmaline
+    branch: master
+  tasker:
+    github: spider-gazelle/tasker
+    branch: master
+
+targets:
+  fckeverywordbot:
+    main: src/fckeverywordbot.cr
+
+crystal: 0.33.0
+
+license: MIT
