@@ -1,18 +1,8 @@
-# fckeverywordbot
+# Fuck Every Word (Telegram)
 
-TODO: Write a description here
+This is just a simple bot inspired by [@fckeveryword](https://twitter.com/fckeveryword) on Twitter. Our goal is to fuck every word in the english language, or at least the 479k+ at in the `src/words.txt` file.
 
-## Installation
-
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+[Come check out the channel on Telegram!](https://t.me/fckeveryword)
 
 ## Contributing
 
